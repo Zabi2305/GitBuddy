@@ -6,6 +6,7 @@ public class Practice {
 		System.out.println("hello");
 		System.out.println("This world is beautyful");
 		System.out.println("duniya dhoka hai");
+		System.out.println("happy day");
 		
 		
 		
